@@ -1,0 +1,13 @@
+abstract-1  10/10
+mosaic-1    09/10
+chinese-1   08/10
+graffiti-3  05/10
+graffiti-2  04/10
+tree-bark   04/10
+mosaic-3    04/10
+graffiti-1  03/10
+renaissance 03/10
+abstract-2  02/10
+mosaic-2    02/10
+stars       01/10
+pencil      00/10
